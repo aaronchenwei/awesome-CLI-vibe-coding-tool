@@ -1,6 +1,11 @@
-# 🧠 Awesome Terminal Vibe Coding
+# 🧠 Awesome Terminal-First AI Coding Agents
 
-This list collects the most useful **AI-assisted, terminal-first tools** that bring LLMs (Large Language Models) to your shell. Think of it as *Copilot meets CLI* — everything you need for intelligent, conversational, and automated development from the command line.
+
+> ⚡ A curated list of **terminal-first, AI-assisted developer tools** — LLM-powered coding agents that bring intelligence, automation, and creativity to your command line.
+
+## 💬 What Are Terminal-First Coding Agents?
+
+These tools combine **Large Language Models (LLMs)** with the **Command Line Interface (CLI)** to create an interactive, conversational development experience —  where you can generate, refactor, and understand code *without leaving your terminal*.
 
 ---
 
