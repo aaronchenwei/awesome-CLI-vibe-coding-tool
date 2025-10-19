@@ -1,8 +1,9 @@
-# Awesome CLI Vibe Coding Tool
+# 🧠 Awesome LLM CLI Tools
 
-⚡ A curated collection of slick, AI-assisted, terminal-first developer tools for vibe coding.
+> ⚡ A curated list of **LLM-powered developer command-line tools** — for coding, automating, and creating directly from your terminal.
 
-## AI-Assisted CLI Coding Tools
+This list collects the most useful **AI-assisted, terminal-first tools** that bring LLMs (Large Language Models) to your shell.  
+Think of it as *Copilot meets CLI* — everything you need for intelligent, conversational, and automated development from the command line.
 
 - [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is an intelligent terminal-based coding agent that comprehends your codebase, automates routine tasks, clarifies complex code, and manages git operations using natural language instructions.
 - [@github/copilot](https://github.com/github/copilot-cli) - **GitHub Copilot CLI** is an AI-powered coding assistant for the command line, enabling building, debugging, and understanding code through natural language.
