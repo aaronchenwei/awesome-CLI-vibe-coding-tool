@@ -1,11 +1,6 @@
-# 🧠 Awesome Terminal-First AI Coding Agents
+# ⚡ awesome-agentic-cli
 
-
-> ⚡ A curated list of **terminal-first, AI-assisted developer tools** — LLM-powered coding agents that bring intelligence, automation, and creativity to your command line.
-
-## 💬 What Are Terminal-First Coding Agents?
-
-These tools combine **Large Language Models (LLMs)** with the **Command Line Interface (CLI)** to create an interactive, conversational development experience —  where you can generate, refactor, and understand code *without leaving your terminal*.
+> A curated collection of agentic, AI-assisted, terminal-first developer tools.
 
 ---
 
