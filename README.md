@@ -1,6 +1,6 @@
-# ⚡ awesome-agentic-cli
+# ⚡ awesome-agentic-coding-cli
 
-> A curated collection of agentic, AI-assisted, terminal-first developer tools.
+> A curated list of **agentic, AI-assisted, terminal-first coding tools**.
 
 ---
 
