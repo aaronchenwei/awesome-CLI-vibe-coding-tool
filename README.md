@@ -4,11 +4,11 @@
 
 ---
 
-- [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is an intelligent terminal-based coding agent that comprehends your codebase, automates routine tasks, clarifies complex code, and manages git operations using natural language instructions.
-- [@github/copilot](https://github.com/github/copilot-cli) - **GitHub Copilot CLI** is an AI-powered coding assistant for the command line, enabling building, debugging, and understanding code through natural language.
-- [@google/gemini-cli](https://github.com/google-gemini/gemini-cli) - **Gemini CLI** is an open-source AI agent that brings the power of Gemini directly into your terminal.
-- [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - **iFlow CLI** is a powerful AI assistant that runs directly in your terminal, analyzing repositories and automating workflows.
-- [@neovate/code](https://github.com/neovateai/neovate-code) - **Neovate** is a coding agent to enhance your development workflow with code generation, bug fixes, and testing.
+- [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is Anthropic’s AI-powered command-line tool that acts as an autonomous coding assistant, capable of understanding and modifying entire codebases through natural language commands.
+- [@github/copilot](https://github.com/github/copilot-cli) - **GitHub Copilot CLI** is a terminal-based AI coding assistant that lets you interact with, edit, and generate code across your repositories using natural language commands.
+- [@google/gemini-cli](https://github.com/google-gemini/gemini-cli) - **Gemini CLI** is Google’s AI-powered command-line tool that assists developers by generating, modifying, and refactoring code across projects through natural language instructions.
+- [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - **iFlow CLI** is a terminal-based AI assistant that automates coding tasks, workflow management, and code analysis using natural language commands and multiple integrated AI models.
+- [@neovate/code](https://github.com/neovateai/neovate-code) - **Neovate Code** is an open-source AI-powered command-line tool designed to assist developers in generating, refactoring, and reviewing code through natural language instructions, enhancing productivity and code quality.
 - [@openai/codex](https://github.com/openai/codex) - **Codex CLI** is a coding agent from OpenAI that runs locally on your computer.
 - [@qoder-ai/qodercli](https://qoder.com/cli) - **Qoder CLI** is a powerful terminal-based AI assistant that understands your codebase and helps you code faster by executing routine tasks, explaining complex code, and handling development workflows -- all through natural language commands.
 - [@qwen-code/qwen-code](https://github.com/QwenLM/qwen-code) - **Qwen Code** is a command-line AI workflow tool optimized for Qwen3-Coder models, enhancing development with code understanding and automation.
