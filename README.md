@@ -10,6 +10,7 @@
 - [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - **iFlow CLI** is a powerful AI assistant that runs directly in your terminal, analyzing repositories and automating workflows.
 - [@neovate/code](https://github.com/neovateai/neovate-code) - **Neovate** is a coding agent to enhance your development workflow with code generation, bug fixes, and testing.
 - [@openai/codex](https://github.com/openai/codex) - **Codex CLI** is a coding agent from OpenAI that runs locally on your computer.
+- [@qoder-ai/qodercli](https://qoder.com/cli) - **Qoder CLI** is a powerful terminal-based AI assistant that understands your codebase and helps you code faster by executing routine tasks, explaining complex code, and handling development workflows -- all through natural language commands.
 - [@qwen-code/qwen-code](https://github.com/QwenLM/qwen-code) - **Qwen Code** is a command-line AI workflow tool optimized for Qwen3-Coder models, enhancing development with code understanding and automation.
 - [@tencent-ai/codebuddy-code](https://cnb.cool/codebuddy/codebuddy-code) - **CodeBuddy Code** is Tencent's AI code assistant for developer productivity and automation.
 - [@vibe-kit/grok-cli](https://github.com/superagent-ai/grok-cli) - **Grok CLI** is a conversational AI CLI tool powered by Grok with intelligent text editor capabilities.
