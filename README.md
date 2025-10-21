@@ -22,5 +22,5 @@
 - [@tencent-ai/codebuddy-code](https://cnb.cool/codebuddy/codebuddy-code) - **CodeBuddy Code** is Tencent's AI code assistant for developer productivity and automation.
 - [@vibe-kit/grok-cli](https://github.com/superagent-ai/grok-cli) - **Grok CLI** is a conversational AI CLI tool powered by Grok with intelligent text editor capabilities.
 - [@volcengine/vecli](https://github.com/volcengine/volcengine-cli) - **VolcEngine CLI** is an AI tool for enterprise-level development and automation.
-- [Warp CLI](https://www.warp.dev/terminal) - A limited subset of Warp's features are available through the command-line interface. This CLI is for building integrations with Warp's agents, though it's available from any terminal (including Warp!).
+- [Warp CLI](https://www.warp.dev/terminal) - A limited subset of Warp's features are available through the command-line interface. This CLI is for building integrations with Warp's agents, though it's available from any terminal.
 - [opencode-ai](https://github.com/sst/opencode) - **OpenCode** is an open-source, provider-agnostic AI coding agent with terminal UI and multi-model support. 
