@@ -5,6 +5,7 @@
 ---
 
 - [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is Anthropic’s AI-powered command-line tool that acts as an autonomous coding assistant, capable of understanding and modifying entire codebases through natural language commands.
+- [@aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - **Amazon Q Developer for CLI** is an agentic AI assistant in your CLI that executes tasks, understands your codebase, and speeds up development through adaptive, natural dialogue.
 - [@augmentcode/auggie](https://github.com/augmentcode/auggie) - **Auggie** is Augment’s agentic coding CLI that runs in your terminal. It understands your codebase and helps you ship faster by analyzing code, making safe edits, and automating routine tasks — all via natural language.
 - [Cursor CLI](https://cursor.com/cli) - **Cursor CLI** lets you interact with AI agents directly from your terminal to write, review, and modify code. Whether you prefer an interactive terminal interface or print automation for scripts and CI pipelines, the CLI provides powerful coding assistance right where you work.
 - [@github/copilot](https://github.com/github/copilot-cli) - **GitHub Copilot CLI** is a terminal-based AI coding assistant that lets you interact with, edit, and generate code across your repositories using natural language commands.
