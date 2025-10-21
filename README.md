@@ -5,6 +5,7 @@
 ---
 
 - [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is Anthropic’s AI-powered command-line tool that acts as an autonomous coding assistant, capable of understanding and modifying entire codebases through natural language commands.
+- [Cursor CLI](https://cursor.com/cli) - Cursor CLI lets you interact with AI agents directly from your terminal to write, review, and modify code. Whether you prefer an interactive terminal interface or print automation for scripts and CI pipelines, the CLI provides powerful coding assistance right where you work.
 - [@github/copilot](https://github.com/github/copilot-cli) - **GitHub Copilot CLI** is a terminal-based AI coding assistant that lets you interact with, edit, and generate code across your repositories using natural language commands.
 - [@google/gemini-cli](https://github.com/google-gemini/gemini-cli) - **Gemini CLI** is Google’s AI-powered command-line tool that assists developers by generating, modifying, and refactoring code across projects through natural language instructions.
 - [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - **iFlow CLI** is a terminal-based AI assistant that automates coding tasks, workflow management, and code analysis using natural language commands and multiple integrated AI models.
