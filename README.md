@@ -4,6 +4,7 @@
 
 ---
 
+- [aider](https://github.com/Aider-AI/aider) - **Aider** lets you pair program with LLMs to start a new project or build on your existing codebase.
 - [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is Anthropic’s AI-powered command-line tool that acts as an autonomous coding assistant, capable of understanding and modifying entire codebases through natural language commands.
 - [@aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - **Amazon Q Developer for CLI** is an agentic AI assistant in your CLI that executes tasks, understands your codebase, and speeds up development through adaptive, natural dialogue.
 - [@augmentcode/auggie](https://github.com/augmentcode/auggie) - **Auggie** is Augment’s agentic coding CLI that runs in your terminal. It understands your codebase and helps you ship faster by analyzing code, making safe edits, and automating routine tasks — all via natural language.
@@ -19,4 +20,5 @@
 - [@tencent-ai/codebuddy-code](https://cnb.cool/codebuddy/codebuddy-code) - **CodeBuddy Code** is Tencent's AI code assistant for developer productivity and automation.
 - [@vibe-kit/grok-cli](https://github.com/superagent-ai/grok-cli) - **Grok CLI** is a conversational AI CLI tool powered by Grok with intelligent text editor capabilities.
 - [@volcengine/vecli](https://github.com/volcengine/volcengine-cli) - **VolcEngine CLI** is an AI tool for enterprise-level development and automation.
+- [Warp CLI](https://www.warp.dev/terminal) - A limited subset of Warp's features are available through the command-line interface. This CLI is for building integrations with Warp's agents, though it's available from any terminal (including Warp!).
 - [opencode-ai](https://github.com/sst/opencode) - **OpenCode** is an open-source, provider-agnostic AI coding agent with terminal UI and multi-model support. 
