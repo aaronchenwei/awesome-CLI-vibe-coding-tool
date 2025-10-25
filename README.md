@@ -3,7 +3,6 @@
 > A curated list of **agentic, AI-assisted, terminal-first coding tools**.
 
 ---
-
 - [aider](https://github.com/Aider-AI/aider) - **Aider** lets you pair program with LLMs to start a new project or build on your existing codebase.
 - [@anthropic-ai/claude-code](https://github.com/anthropics/claude-code) - **Claude Code** is Anthropic’s AI-powered command-line tool that acts as an autonomous coding assistant, capable of understanding and modifying entire codebases through natural language commands.
 - [@augmentcode/auggie](https://github.com/augmentcode/auggie) - **Auggie** is Augment’s agentic coding CLI that runs in your terminal. It understands your codebase and helps you ship faster by analyzing code, making safe edits, and automating routine tasks — all via natural language.
@@ -15,6 +14,7 @@
 - [@google/gemini-cli](https://github.com/google-gemini/gemini-cli) - **Gemini CLI** is Google’s AI-powered command-line tool that assists developers by generating, modifying, and refactoring code across projects through natural language instructions.
 - [@iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - **iFlow CLI** is a terminal-based AI assistant that automates coding tasks, workflow management, and code analysis using natural language commands and multiple integrated AI models.
 - [@kilocode/cli](https://github.com/Kilo-Org/kilocode ) - **Kilo Code** Terminal User Interface for Kilo Code
+ - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - **Kimi CLI** is a new CLI agent that can help you with your software development tasks and terminal operations.
 - [@nanocollective/nanocoder](https://github.com/Nano-Collective/nanocoder) - **Nanocoder** is a local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
 - [@neovate/code](https://github.com/neovateai/neovate-code) - **Neovate Code** is an open-source AI-powered command-line tool designed to assist developers in generating, refactoring, and reviewing code through natural language instructions, enhancing productivity and code quality.
 - [@openai/codex](https://github.com/openai/codex) - **Codex CLI** is a command-line tool that leverages OpenAI’s Codex models to generate, edit, and interact with code using natural language instructions directly from the terminal.
